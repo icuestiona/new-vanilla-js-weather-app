@@ -8,6 +8,9 @@
   background-image: linear-gradient(to top, #79d1c3, #f0fbff, #f6b3e5);
   display: grid;
 }
+.box {
+  margin-top: 20px;
+}
 
 .search {
   padding: 8px;
