@@ -20,13 +20,13 @@
   width: 200px;
 }
 .col-3 {
-  position: absolute;
+  position: absolute !important;
   top: 30px;
   margin-left: 155px;
   width: 80px;
 }
 .button {
-  position: absolute;
+  position: absolute !important;
   top: 15px;
   margin-left: 400px;
   width: 80px;
@@ -131,7 +131,7 @@ img {
 .weather-forecast-temperatures {
   font-size: 16px;
 }
-@media (max-width: 960px) {
+@media (max-width: 600px) {
   header {
     padding: 60px 0;
   }
